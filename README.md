@@ -14,7 +14,7 @@ Here is a list of some of my freeCodeCamp projects:
   - Code: [github.com/Apostolos172/JavaScript-Calculator](https://github.com/Apostolos172/JavaScript-Calculator)
 - [25-5-Clock](https://apostolos172.github.io/25-5-Clock/)
   - Code: [github.com/Apostolos172/25-5-Clock](https://github.com/Apostolos172/25-5-Clock)
-
+  
 ## Responsive Web Design
 
 - [Tribute Page](https://apostolos172.github.io/tribute-page/)
@@ -26,6 +26,6 @@ Here is a list of some of my freeCodeCamp projects:
 - [Personal Portfolio](https://apostolos172.github.io/)
   - Code: [github.com/Apostolos172/apostolos172.github.io](https://github.com/Apostolos172/apostolos172.github.io)
 
-  ## My profile
+## My profile
 
-  Check out my [profile](https://www.freecodecamp.org/apostolos172) at freeCodeCamp
+Check out my [profile](https://www.freecodecamp.org/apostolos172) at freeCodeCamp
